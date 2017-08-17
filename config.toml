@@ -78,7 +78,7 @@ paginate = 10
     address = """<p><strong>Misky LLC</strong>
         <br>Hollywood, FL
         <br>33021
-        <strong>USA</strong>
+        <br><strong>USA</strong>
       </p>
       """
     latitude = ""
