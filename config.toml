@@ -32,7 +32,6 @@ paginate = 10
     url  = "/faq/"
     weight = 3
 
-
 # Top bar social links menu
 
 [[menu.topbar]]
