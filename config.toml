@@ -1,4 +1,4 @@
-baseurl = "https://misky.co"
+baseurl = "https://misky.co/"
 title = "Misky"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
