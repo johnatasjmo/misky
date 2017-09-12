@@ -67,7 +67,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "jmo@misky.com"
 
-    about_us = "<p>We are a trading company that ships products from USA to Latin America.</p>"
+    about_us = "<p>We are a trading company located in Miami and help retailers in Latin America on getting access to gluten-free and nutritional products.</p>"
     copyright = ""
 
     # Format dates with Go's time formatting
@@ -124,8 +124,8 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-shopping-basket"
-    title = "Interested?"
-    subtitle = "We can provide competive selling rates from USA into Latin America."
+    title = "Food distribution"
+    subtitle = "We commercialize gluten-free and nutrition products from USA to Latin America"
     link_url = "mailto:info@misky.com"
     link_text = "Contact Us"
 
