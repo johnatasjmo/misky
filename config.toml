@@ -65,9 +65,9 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "jmo@misky.com"
 
-    about_us = "<p>Misky is a trading company that represents companies in USA and Latin America.</p>"
+    about_us = "<p>We are a trading company that ships products from USA to Latin America.</p>"
     copyright = ""
 
     # Format dates with Go's time formatting
@@ -102,13 +102,13 @@ paginate = 10
     search = true
 
 [params.carousel]
-    enable = true
+    enable = false
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = true
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
@@ -123,9 +123,9 @@ paginate = 10
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
+    icon = "fa fa-shopping-basket"
     title = "Interested?"
-    subtitle = "We can help with shipping and distribution of the brands we represent into Latin America."
+    subtitle = "We can provide competive selling rates from USA into Latin America."
     link_url = "mailto:info@misky.com"
     link_text = "Contact Us"
 
