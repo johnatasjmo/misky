@@ -1,0 +1,22 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.navbar-default {
+    background-color: #red;
+}
+
+.navbar ul.nav > li > a {
+    text-decoration: none !important;
+}
+
+body {
+    font-size: 16px;
+}
