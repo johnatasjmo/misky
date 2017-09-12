@@ -1,4 +1,4 @@
-baseurl = "https://politician-lily-36153.netlify.com/"
+baseurl = "http:misky.co"
 title = "Misky"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
